@@ -65,11 +65,7 @@ public class Eleve implements Comparable {
 	return -1;
 	}
 
-	public Eleve(String nom, String prenom, int dateNaissance) {
-		super();
-		this.nom = nom;
-		this.prenom = prenom;
-		this.dateNaissance = dateNaissance;
+
 	}
 	
 	/* compare 2 eleve avec nom prenom
@@ -86,4 +82,4 @@ public class Eleve implements Comparable {
 	 */
 	
 
-}
+
