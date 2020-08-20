@@ -1,0 +1,11 @@
+<!--  <?xml version="1.0" encoding="UTF-8"?>
+
+Excercice 1 : 
+créer une liste de Map<String, Eleve>
+• Eleve est une classe qui contient les attributs (CNE, NOM, PRENOM,
+ DATENAISSANCE)
+ avec les méthodes (toString[surchargé], compare[compare deux Eleve par
+  leur CNE], compare[compare deux Eleve avec leur nom, prenom])
+• Inserer dans le Map les éleve avec leur CNE comme clé et l’objet 
+Eleve comme valeur
+--> 
